@@ -1,0 +1,10 @@
+{
+  "mod": "windows-11-taskbar-styler",
+  "version": "1.10",
+  "include": "explorer.exe",
+  "settings": {
+    "theme": "WindowGlass",
+    "clickThroughTaskbar": 0,
+    "xamlDiagnosticsHandling": "alert"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "mod": "windows-11-start-menu-styler",
+  "version": "1.7",
+  "include": "StartMenuExperienceHost.exe|SearchHost.exe|SearchApp.exe",
+  "settings": {
+    "theme": "LiquidGlass2",
+    "disableNewStartMenuLayout": "forceNewLayout"
+  }
+}

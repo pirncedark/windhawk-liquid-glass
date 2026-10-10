@@ -1,0 +1,11 @@
+{
+  "mod": "windows-11-file-explorer-styler",
+  "version": "1.7",
+  "include": "explorer.exe",
+  "settings": {
+    "theme": "WindowGlass",
+    "backgroundTranslucentEffect": "acrylicblur",
+    "explorerFrameContainerHeight": 0,
+    "xamlDiagnosticsHandling": "alert"
+  }
+}
